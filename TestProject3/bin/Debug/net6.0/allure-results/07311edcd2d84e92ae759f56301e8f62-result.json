@@ -1,0 +1,90 @@
+{
+  "uuid": "7d00a71e6af54690ab979a1675049c41",
+  "historyId": "Updating a product",
+  "fullName": "Updating a product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "PutProduct"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "Updating a product",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "No matching step definition found for the step"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  the API endpoint \"/product/17\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685909793026,
+      "stop": 1685909793026
+    },
+    {
+      "name": "When  a PUT request is sent to the endpoint with the following product data",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "table",
+          "source": "2f39a20b72c54c42ac0f5ac16b132b94-attachment.csv",
+          "type": "text/csv"
+        }
+      ],
+      "parameters": [],
+      "start": 1685909793036,
+      "stop": 1685909793375
+    },
+    {
+      "name": "Then  a successful response with status code 403 is received",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685909793376,
+      "stop": 1685909793377
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685909793025,
+  "stop": 1685909793471
+}

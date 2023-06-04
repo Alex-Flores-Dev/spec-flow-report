@@ -1,0 +1,100 @@
+{
+  "uuid": "1b43d735ddc8487ba83c97290bb5a12d",
+  "historyId": "Get products by id",
+  "fullName": "Get products by id",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "Get products"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "regression"
+    },
+    {
+      "name": "tag",
+      "value": "integration"
+    },
+    {
+      "name": "tag",
+      "value": "task-03"
+    }
+  ],
+  "links": [],
+  "name": "Get products by id",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "No matching step definition found for the step"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have an id with value 5",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685898173738,
+      "stop": 1685898173846
+    },
+    {
+      "name": "When  I send a get request",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685898173849,
+      "stop": 1685898173854
+    },
+    {
+      "name": "Then  I expected a valid object response",
+      "status": "skipped",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685898173857,
+      "stop": 1685898173857
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685898173719,
+  "stop": 1685898173914
+}

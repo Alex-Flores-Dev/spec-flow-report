@@ -1,0 +1,83 @@
+{
+  "uuid": "b22c24d511a74c6b9e147797e15f8698",
+  "historyId": "Retrieving all products",
+  "fullName": "Retrieving all products",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "GetAllProducts"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "Retrieving all products",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  the API endpoint \"/product\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685911149693,
+      "stop": 1685911149694
+    },
+    {
+      "name": "When  a GET request is sent to the endpoint",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685911149695,
+      "stop": 1685911149962
+    },
+    {
+      "name": "Then  a successful response with status code 200 is received",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685911149962,
+      "stop": 1685911149969
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685911149693,
+  "stop": 1685911149969
+}

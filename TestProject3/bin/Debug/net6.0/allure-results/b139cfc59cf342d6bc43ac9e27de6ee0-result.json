@@ -1,0 +1,84 @@
+{
+  "uuid": "b9e51d1c05ac4ccea8722b354bfea447",
+  "historyId": "[scenario name]",
+  "fullName": "[scenario name]",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "PutProduct"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "[scenario name]",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "No matching step definition found for the step"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  [context]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685900662574,
+      "stop": 1685900662712
+    },
+    {
+      "name": "When  [action]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685900662712,
+      "stop": 1685900662724
+    },
+    {
+      "name": "Then  [outcome]",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685900662724,
+      "stop": 1685900662742
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685900662574,
+  "stop": 1685900662804
+}

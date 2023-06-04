@@ -1,0 +1,105 @@
+{
+  "uuid": "b5550af93969489a9976acce1c8f6b1a",
+  "historyId": "Updating a product",
+  "fullName": "Updating a product",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "PutProduct"
+    },
+    {
+      "name": "tag",
+      "value": "positive"
+    },
+    {
+      "name": "tag",
+      "value": "smoke"
+    },
+    {
+      "name": "tag",
+      "value": "regression"
+    },
+    {
+      "name": "tag",
+      "value": "integration"
+    },
+    {
+      "name": "tag",
+      "value": "task-03"
+    }
+  ],
+  "links": [],
+  "name": "Updating a product",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  I have an object with value",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "table",
+          "source": "bcdd1b0ddc434a0794441631165fe0d7-attachment.csv",
+          "type": "text/csv"
+        }
+      ],
+      "parameters": [],
+      "start": 1685910884103,
+      "stop": 1685910884313
+    },
+    {
+      "name": "When  I send a get request to update",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685910884313,
+      "stop": 1685910884577
+    },
+    {
+      "name": "Then  I expected a valid status code",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685910884577,
+      "stop": 1685910884578
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685910884091,
+  "stop": 1685910884578
+}

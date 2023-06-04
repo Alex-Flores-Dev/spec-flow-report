@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "48eTFs+X7pFo8wvD9dhm6eTV0HKxeGeFLex2Qytg+S0Az3vbWnPu14YPV+Pind9cp2PXfeAjnw7TewR6KsGycw==",
+  "dgSpecHash": "+P8eTGUpvOmp6yy6Rw4H6tsu5aPcqJUAiU6YwUg5diSn0oqBMuYv0FuDHIHYZBI/0k+Dzy8PQMAnzHGMM1i1zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\TestProject3.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\TestProject3.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",

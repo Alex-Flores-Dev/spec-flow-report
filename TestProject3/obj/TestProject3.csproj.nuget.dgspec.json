@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\TestProject3.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\TestProject3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\TestProject3.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\TestProject3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\TestProject3.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\TestProject3.csproj",
         "projectName": "TestProject3",
-        "projectPath": "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\TestProject3.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\TestProject3.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Desktop\\Automationtest\\specflow\\TestProject3\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Automationtest\\spec-flow-report\\TestProject3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
