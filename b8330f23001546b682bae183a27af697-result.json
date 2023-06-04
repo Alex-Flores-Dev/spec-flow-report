@@ -1,0 +1,83 @@
+{
+  "uuid": "1813d37cf61847e093af0c66086dce98",
+  "historyId": "Retrieving all categories",
+  "fullName": "Retrieving all categories",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-RLL6LMP"
+    },
+    {
+      "name": "feature",
+      "value": "GetAllCategories"
+    },
+    {
+      "name": "tag",
+      "value": "tag1"
+    }
+  ],
+  "links": [],
+  "name": "Retrieving all categories",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  The API endpoint \"/category\"",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685910882600,
+      "stop": 1685910882649
+    },
+    {
+      "name": "When  a GET request is sent to the end point",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685910882650,
+      "stop": 1685910883140
+    },
+    {
+      "name": "Then  a successful response with status code",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1685910883140,
+      "stop": 1685910883156
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1685910882586,
+  "stop": 1685910883159
+}
